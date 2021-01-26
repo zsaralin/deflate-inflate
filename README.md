@@ -6,4 +6,4 @@ Inflate.py :
 - Requires starting dimensions (ex: "deflated" dimensions of the image) 
 
 Below is an image demonstrating the deflate method, drawing a blue border along the "deflated" region. 
-![Pink Square](pink_square_border.png?raw=true "Square Pink")
+![Image with Border](w_border.jpg?raw=true "Image with Border")
