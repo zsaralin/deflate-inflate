@@ -5,4 +5,4 @@ Inflate.py :
 "inflate" an image by expanding the edges out one pixel at a time, stopping each edge when there is a nonzero image gradient somewhere along its length 
 - Requires starting dimensions (ex: "deflated" dimensions of the image) 
 
-![Pink Square](pink_square.jpg?raw=true "Pink Square")
+![Pink Square](square_pink.jpg?raw=true "Pink Square")
