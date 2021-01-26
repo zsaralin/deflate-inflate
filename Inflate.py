@@ -31,7 +31,7 @@ def find_bottom(img_canny, node_dim) :
             new_bottom += 1
     return new_bottom
 
-
+# Find left edge
 def find_left(img_canny, node_dim) :
     if node_dim[2] == 0 :
         return node_dim[2]
@@ -44,7 +44,7 @@ def find_left(img_canny, node_dim) :
             new_left -= 1
     return new_left
 
-
+# Find right edge
 def find_right(img_canny, node_dim) :
     if node_dim[3] == img_canny.shape[1] - 1 :
         return node_dim[3]
