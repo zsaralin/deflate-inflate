@@ -6,3 +6,4 @@ Inflate.py :
 - Requires starting dimensions (ex: "deflated" dimensions of the image) 
 
 ![Pink Square](square_pink.jpg?raw=true "Pink Square")
+![Pink Square Border](w_border.jpg?raw=true "Pink Square Border")
